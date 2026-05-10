@@ -21,12 +21,26 @@ Building robust backend systems by day, breaking them by night. I focus on distr
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [**api-monitoring-system**](https://github.com/Lappy000/api-monitoring-system) | Real-time API health monitoring and alerting |
-| [**job-orchestrator**](https://github.com/Lappy000/job-orchestrator) | Distributed task orchestration engine |
-| [**vkusvill-parser**](https://github.com/Lappy000/vkusvill-parser) | Go-based web parser for data extraction |
-| [**J.A.R.V.I.S.**](https://github.com/Lappy000/J.A.R.V.I.S.) | AI-powered personal assistant |
+#### 🔐 Security & Monitoring
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**keyleak**](https://github.com/Lappy000/keyleak) | API key leak auditor — validates exposed keys across 50+ services | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/-Security-red?style=flat-square) |
+| [**pingboard**](https://github.com/Lappy000/pingboard) | Terminal monitoring dashboard with real-time endpoint health | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TUI](https://img.shields.io/badge/-TUI-purple?style=flat-square) |
+| [**api-monitoring-system**](https://github.com/Lappy000/api-monitoring-system) | Production API health monitoring and alerting platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DevOps](https://img.shields.io/badge/-DevOps-blue?style=flat-square) |
+
+#### 🤖 AI & Automation
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**doppelganger-bot**](https://github.com/Lappy000/doppelganger-bot) | Telegram bot that clones your personality via chat history | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-orange?style=flat-square) |
+| [**job-orchestrator**](https://github.com/Lappy000/job-orchestrator) | Distributed task orchestration engine with DAG scheduling | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Backend](https://img.shields.io/badge/-Backend-green?style=flat-square) |
+
+#### 📝 Knowledge
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**til**](https://github.com/Lappy000/til) | Today I Learned — daily notes on dev, security & ops | ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=markdown&logoColor=white) |
 
 ---
 
